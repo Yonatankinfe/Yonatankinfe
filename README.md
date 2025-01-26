@@ -27,7 +27,7 @@ Turning coffee into code since [your starting year]! ☕️
 [![CSS3](https://img.shields.io/badge/🎨_CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=radical&hide_border=true)
 
 ## 📫 Let's Connect!
 
