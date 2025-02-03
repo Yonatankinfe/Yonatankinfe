@@ -29,6 +29,9 @@ Turning coffee into code since [your starting year]! ☕️
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=radical&hide_border=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCrook&layout=compact&theme=highcontrast)](https://github.com/NiCrook/github-readme-stats)
+
+
 ## 📫 Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/📧_yonatankinfe0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonatankinfe0@gmail.com)
