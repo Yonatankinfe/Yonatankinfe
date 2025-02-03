@@ -1,8 +1,8 @@
 <div align="center">
 
-<h4>👋
+👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F71A&width=435&lines=Hi%2C+let's+build.)](https://git.io/typing-svg)
-</h4>
+
 <h1 align="center">Hello there! I'm Yonatan Kinfe🚀 Full-Stack Developer | 💻  Machine Learing Engineer</h1>
   
 
