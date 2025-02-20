@@ -1,4 +1,4 @@
-u<div align="center">
+<div align="center">
 
 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F71A&width=435&lines=Hi%2C+let's+build.)](https://git.io/typing-svg)
@@ -37,12 +37,14 @@ Turning coffee into code since 2018 ! ☕️
 [![CSS3](https://img.shields.io/badge/🎨_CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=radical&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCrook&layout=compact&theme=highcontrast)](https://github.com/NiCrook/github-readme-stats)
 
 
-<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatankinfe" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&" alt="Yonatankinfe" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&show_icons=true&locale=en&layout=compact" alt="Yonatankinfe" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe" alt="Yonatankinfe" /></a></p>
+
+
 
 ## 📫 Let's Connect!
 
@@ -51,9 +53,6 @@ Turning coffee into code since 2018 ! ☕️
 
 </div>
 
-
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
