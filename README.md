@@ -42,6 +42,8 @@ Turning coffee into code since 2018 ! ☕️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiCrook&layout=compact&theme=highcontrast)](https://github.com/NiCrook/github-readme-stats)
 
 
+<img align="center" src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+
 ## 📫 Let's Connect!
 
 [![Gmail](https://img.shields.io/badge/📧_yonatankinfe0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonatankinfe0@gmail.com)
