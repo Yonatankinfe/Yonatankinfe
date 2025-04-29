@@ -1,55 +1,147 @@
 <div align="center">
 
-👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F71A&width=435&lines=Hi%2C+let's+build.)](https://git.io/typing-svg)
+  <!-- Optional: A larger, more welcoming emoji or banner -->
+  <!-- <img src="YOUR_BANNER_URL_HERE" alt="Welcome Banner" width="800"/> -->
 
-<h1 align="center">Hello there! I'm Yonatan Kinfe🚀 Full-Stack Developer | 💻  Machine Learing Engineer</h1>
-  
+  <!-- Typing SVG - Kept as it's a nice dynamic element -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F71A¢er=true&width=435&lines=Hi+there%2C+I'm+Yonatan+Kinfe+%F0%9F%9A%80" alt="Typing SVG - Hi there, I'm Yonatan Kinfe">
+  </a>
 
+  <h1>Full-Stack Developer & Machine Learning Engineer</h1>
 
-Passionate about crafting robust solutions and beautiful user experiences.<br>
-Turning coffee into code since 2018 ! ☕️
+  <i>Passionate about crafting robust solutions and intuitive user experiences.<br>Transforming ideas into reality with code since 2018! ☕️ 💡</i>
 
-## 🛠 Tech Stack
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 👋 About Me
 
+I'm a versatile developer with a strong foundation in **Full-Stack Web Development** and a growing expertise in **Machine Learning Engineering**. I thrive on building efficient backend systems, creating engaging frontend interfaces, and leveraging data to build intelligent applications. I'm always eager to learn new technologies and contribute to challenging projects.
 
+---
 
-### ☸️ Containers & Cloud
-[![Kubernetes](https://img.shields.io/badge/☸️_Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=326CE5)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/🐳_Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/☁️_AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=232F3E&labelColor=FF9900)](https://aws.amazon.com/)
+## 🛠️ My Tech Stack & Tools
 
-### 🐍 Languages & Frameworks
-[![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B&labelColor=3776AB)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/☕_Java-007396?style=flat-square&logo=openjdk&logoColor=white&labelColor=007396)](https://www.java.com/)
-[![Spring](https://img.shields.io/badge/🌱_Spring-6DB33F?style=flat-square&logo=spring&logoColor=white&labelColor=6DB33F)](https://spring.io/)
-[![JavaScript](https://img.shields.io/badge/🌟_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/🔵_TS-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6)](https://www.typescriptlang.org/)
+Here's a glimpse of the technologies I frequently work with:
 
-### 🌐 Web Technologies
-[![React](https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB)](https://react.dev/)
-[![Flask](https://img.shields.io/badge/🍶_Flask-000000?style=flat-square&logo=flask&logoColor=white&labelColor=000000)](https://flask.palletsprojects.com/)
-[![HTML5](https://img.shields.io/badge/🛠️_HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/🎨_CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<div align="center">
 
-## 📊 GitHub Stats
+  <!-- Languages -->
+  <p>
+    <strong>Languages:</strong><br/>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"/></a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"/></a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/></a>
+    <!-- Add Java if applicable: <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/></a> -->
+  </p>
 
+  <!-- Frontend Development -->
+  <p>
+    <strong>Frontend Development:</strong><br/>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/></a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/></a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/></a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/></a>
+    <!-- Add others like Vue, Angular, Svelte, Tailwind if used -->
+  </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatankinfe" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&" alt="Yonatankinfe" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&show_icons=true&locale=en&layout=compact" alt="Yonatankinfe" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe" alt="Yonatankinfe" /></a></p>
+  <!-- Backend Development -->
+  <p>
+    <strong>Backend Development:</strong><br/>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+    <!-- Add Express: <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/></a> -->
+    <!-- Add Flask/Django if used for Python backend -->
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/></a>
+    <!-- Add Spring if used for Java backend -->
+  </p>
 
+  <!-- Databases & Cache -->
+  <p>
+    <strong>Databases & Cache:</strong><br/>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+    <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/></a>
+    <!-- Add MySQL, MariaDB, etc. if used -->
+  </p>
 
+  <!-- Machine Learning & Data Science -->
+  <p>
+    <strong>Machine Learning & Data Science:</strong><br/>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+    <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/></a>
+    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/></a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/></a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/></a>
+    <!-- Add PyTorch, NLTK, SpaCy, etc. if used -->
+  </p>
+
+  <!-- Cloud & DevOps -->
+  <p>
+    <strong>Cloud & DevOps:</strong><br/>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/></a>
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/></a>
+    <!-- Add GCP, Azure, Jenkins, Terraform etc. if used -->
+  </p>
+
+  <!-- Tools & Others -->
+  <p>
+    <strong>Tools & Others:</strong><br/>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/></a>
+    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/></a>
+  </p>
+
+</div>
+
+---
+
+## 📊 My GitHub Stats & Activity
+
+*(Optional: Add a theme for consistency, e.g., `&theme=tokyonight` or `&theme=radical`)*
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en&theme=tokyonight" alt="Yonatan Kinfe's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=tokyonight" alt="Yonatan Kinfe's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Yonatan Kinfe's Top Languages" />
+  <br/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=tokyonight&column=7" alt="Yonatan Kinfe's GitHub Trophies" />
+  </a>
+</div>
+
+---
 
 ## 📫 Let's Connect!
 
-[![Gmail](https://img.shields.io/badge/📧_yonatankinfe0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yonatankinfe0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/👔_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonatan-kinfe-7392a1274)
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
+<div align="center">
+  <a href="mailto:yonatankinfe0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
+  </a>
+     <!-- Add space between badges -->
+  <a href="https://www.linkedin.com/in/yonatan-kinfe-7392a1274">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  <!-- Add other links like Portfolio Website, Twitter, etc. if you have them -->
+  <!--
+    
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="My Portfolio"/>
+  </a>
+  -->
+</div>
 
-
+---
