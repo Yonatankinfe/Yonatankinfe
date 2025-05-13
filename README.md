@@ -145,3 +145,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 </div>
 
 ---
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
