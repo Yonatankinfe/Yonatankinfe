@@ -108,6 +108,10 @@ Here's a glimpse of the technologies I frequently work with:
 ## 📊 My GitHub Stats & Activity
 
 *(Optional: Add a theme for consistency, e.g., `&theme=tokyonight` or `&theme=radical`)*
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en&theme=tokyonight" alt="Yonatan Kinfe's GitHub Stats" />
@@ -146,7 +150,3 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
