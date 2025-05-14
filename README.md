@@ -114,10 +114,8 @@ Here's a glimpse of the technologies I frequently work with:
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <div align="center" style="background-color: white; padding: 20px;">
-  <br/>
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=tokyo" alt="Yonatan Kinfe's GitHub Streak" />
- 
+   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=tokyonight" alt="Yonatan Kinfe's GitHub Streak" />
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="Yonatan Kinfe's GitHub Trophies" />
