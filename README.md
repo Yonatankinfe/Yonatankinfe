@@ -115,7 +115,8 @@ Here's a glimpse of the technologies I frequently work with:
 
 <div align="center" style="background-color: white; padding: 20px;">
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=default" alt="Yonatan Kinfe's GitHub Streak" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=default" alt="Yonatan Kinfe's GitHub Streak" />
+
   <br/><br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="Yonatan Kinfe's GitHub Trophies" />
