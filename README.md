@@ -113,6 +113,12 @@ Here's a glimpse of the technologies I frequently work with:
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+
+## My Github Stats
+<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
+<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cboy220&show_icons=true&locale=en&layout=compact"  alt="Cboy220" />
+
+  
 <div align="center" style="background-color: white; padding: 20px;">
    <br/>
   <img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en"  alt="Cboy220" />
