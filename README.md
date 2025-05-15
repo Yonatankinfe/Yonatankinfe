@@ -113,10 +113,6 @@ Here's a glimpse of the technologies I frequently work with:
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-## My Github Stats
-
-
   
 <div align="center" style="background-color: white; padding: 20px;">
   <br/>
