@@ -1,5 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
-<hr/>
+
 <div align="center">
 
   <!-- Optional: A larger, more welcoming emoji or banner -->
