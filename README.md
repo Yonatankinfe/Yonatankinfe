@@ -8,9 +8,9 @@
   <!-- <img src="YOUR_BANNER_URL_HERE" alt="Welcome Banner" width="800"/> -->
 
   <!-- Typing SVG - Kept as it's a nice dynamic element -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F71A¢er=true&width=435&lines=Hi+there%2C+I'm+Yonatan+Kinfe+%F0%9F%9A%80" alt="Typing SVG - Hi there, I'm Yonatan Kinfe">
-  </a>
+ <!-- <a href="https://git.io/typing-svg"> -->
+   <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F2F71A¢er=true&width=435&lines=Hi+there%2C+I'm+Yonatan+Kinfe+%F0%9F%9A%80" alt="Typing SVG - Hi there, I'm Yonatan Kinfe"> -->
+ <!-- </a> -->
 
   <h1>Full-Stack Developer & Machine Learning Engineer</h1>
 
