@@ -120,7 +120,7 @@ Here's a glimpse of the technologies I frequently work with:
   
 <div align="center" style="background-color: white; padding: 20px;">
   <br/>
-  <img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en"  alt="Cboy220" />
+  <!-- <img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en"  alt="Cboy220" /> -->
   <br/>
 <img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&show_icons=true&locale=en&layout=compact"  alt="Cboy220" />
    <br/>
