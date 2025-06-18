@@ -111,7 +111,7 @@ Here's a glimpse of the technologies I frequently work with:
 
 ## 📊 My GitHub Stats & ActivityMore actions
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yonatankinfe&theme=dark)](https://git.io/streak-stats)
+ [![](https://streak-stats.demolab.com/?user=Yonatankinfe&theme=dark)](https://git.io/streak-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
