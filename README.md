@@ -111,7 +111,7 @@ Here's a glimpse of the technologies I frequently work with:
 
 ## 📊 My GitHub Stats & ActivityMore actions
 
-
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yonatankinfe&theme=dark)](https://git.io/streak-stats)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -124,7 +124,6 @@ Here's a glimpse of the technologies I frequently work with:
     <!-- <img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&show_icons=true&locale=en&layout=compact"  alt="Yonatankinfe" /> -->
     <br/>
     <br/><br/>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yonatankinfe&theme=dark)](https://git.io/streak-stats)
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="Yonatan Kinfe's GitHub Streak" /> 
     <br/>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
