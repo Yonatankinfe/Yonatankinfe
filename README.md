@@ -155,5 +155,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   -->
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=Yonatankinfe&label=Profile%20views&color=0e75b6&style=flat)
+
+[![Yonatankinfe's GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=Yonatankinfe)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
