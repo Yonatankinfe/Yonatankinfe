@@ -57,18 +57,7 @@ Here's a glimpse of the technologies I frequently work with:
 
  
 
-  <!-- Tools & Others -->
-  <p>
-    <strong>Tools & Others:</strong><br/>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/></a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js"/></a>
-  </p>
 
-</div>
-
----
 
 ## 📊 My GitHub Stats & ActivityMore actions
 
