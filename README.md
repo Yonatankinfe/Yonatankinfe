@@ -29,6 +29,7 @@ I'm a versatile developer with a strong foundation in **Full-Stack Web Developme
 ## 🛠️ My Tech Stack & Tools
 
 Here's a glimpse of the technologies I frequently work with:
+<br/>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
