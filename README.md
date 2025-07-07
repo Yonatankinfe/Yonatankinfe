@@ -83,17 +83,16 @@ Here's a glimpse of the technologies I frequently work with:
 
 </div>
 
-<!-- GitHub Stats and Streak Side by Side -->
+<!-- GitHub Stats and Streak Side by Side (Fixed Alignment) -->
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" style="width: 420px;" />
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" style="width: 420px;" />
 
 </div>
-
 
 <!-- GitHub Trophies -->
 <div align="center" style="margin-top: 30px;">
