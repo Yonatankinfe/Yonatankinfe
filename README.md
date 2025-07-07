@@ -83,17 +83,17 @@ Here's a glimpse of the technologies I frequently work with:
 
 </div>
 
-<!-- GitHub Readme Stats -->
-<div align="center" style="margin-top: 40px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" width="48%" />
-  <!-- Optional: uncomment this line to show top languages -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&layout=compact&show_icons=true&locale=en" width="38%" alt="Top Languages" /> -->
+<!-- GitHub Stats and Streak Side by Side -->
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" width="45%" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" width="45%" />
+
 </div>
 
-<!-- GitHub Streak -->
-<div align="center" style="margin-top: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" />
-</div>
 
 <!-- GitHub Trophies -->
 <div align="center" style="margin-top: 30px;">
