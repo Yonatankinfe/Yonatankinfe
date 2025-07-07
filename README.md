@@ -84,7 +84,7 @@ Here's a glimpse of the technologies I frequently work with:
 </div>
 
 <!-- GitHub Stats and Streak Side by Side (Fixed Alignment) -->
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 40px;">
+<div align="center">
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" style="width: 420px;" />
