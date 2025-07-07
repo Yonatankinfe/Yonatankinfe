@@ -95,7 +95,7 @@ Here's a glimpse of the technologies I frequently work with:
 <!-- GitHub Trophies -->
 <div align="center" style="margin-top: 30px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="GitHub Trophies"  style="width: 650px; " />
+    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="GitHub Trophies"  style="width: 670px; " />
   </a>
 </div>
 
