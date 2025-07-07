@@ -84,10 +84,10 @@ Here's a glimpse of the technologies I frequently work with:
 </div>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" style="width: 350px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" style="width: 320px;" />
   
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" style="width: 350px; " />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" style="width: 320px; " />
 
 </div>
 
