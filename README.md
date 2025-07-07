@@ -62,22 +62,43 @@ Here's a glimpse of the technologies I frequently work with:
 ## 📊 My GitHub Stats & ActivityMore actions
 
  
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
 
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue" alt="Top Languages by Repo" />
+  </a>
+  
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=vue" alt="Most Used Languages" />
+  </a>
+  
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yonatankinfe&theme=vue" alt="GitHub Stats" />
+  </a>
+  
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yonatankinfe&theme=vue" alt="Productive Time" />
+  </a>
 
-<div align="center" style="background-color: white; padding: 20px;">
-  <br/>
-   <img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en"  alt="Yonatan knfe" />
-    <!-- <img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&show_icons=true&locale=en&layout=compact"  alt="Yonatankinfe" /> -->
-    <br/>
-    <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="Yonatan Kinfe's GitHub Streak" /> 
-    <br/>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="Yonatan Kinfe's GitHub Trophies" />
+</div>
+
+<!-- GitHub Readme Stats -->
+<div align="center" style="margin-top: 40px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&locale=en" alt="Yonatan Kinfe's GitHub Stats" width="48%" />
+  <!-- Optional: uncomment this line to show top languages -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yonatankinfe&layout=compact&show_icons=true&locale=en" width="38%" alt="Top Languages" /> -->
+</div>
+
+<!-- GitHub Streak -->
+<div align="center" style="margin-top: 30px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=vue" alt="GitHub Streak" />
+</div>
+
+<!-- GitHub Trophies -->
+<div align="center" style="margin-top: 30px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
