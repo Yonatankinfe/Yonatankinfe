@@ -63,7 +63,7 @@ Here's a glimpse of the technologies I frequently work with:
 
  
 <!-- GitHub Profile Summary Cards -->
-<div align="center">
+<div>
 
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue" alt="Top Languages by Repo" />
