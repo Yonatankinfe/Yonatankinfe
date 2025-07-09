@@ -102,24 +102,21 @@ Here's a glimpse of the technologies I frequently work with:
 
 ---
 
+
+## ☎️ Connect With ME
+
+
+
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
-<div align="center">
-  <a href="mailto:yonatankinfe0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
-  </a>
-     <!-- Add space between badges -->
-  <a href="https://www.linkedin.com/in/yonatan-kinfe-7392a1274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-  <!-- Add other links like Portfolio Website, Twitter, etc. if you have them -->
-  <!--
-    
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Website-4CAF50?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="My Portfolio"/>
-  </a>
-  -->
-</div>
+<p align="center"> 
+<a href="https://t.me/yonatankinfe"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"/></a>
+&nbsp;
+<a href="https://github.com/Yonatankinfe"><img src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/yonatan-kinfe-7392a1274"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
+&nbsp;
+</p>
 
