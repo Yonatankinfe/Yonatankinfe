@@ -103,10 +103,6 @@ Here's a glimpse of the technologies I frequently work with:
 ---
 
 
-## ☎️ Connect With ME
-
-
-
 ## 📫 Let's Connect!
 
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
