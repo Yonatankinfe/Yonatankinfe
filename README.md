@@ -115,4 +115,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 <a href="https://linkedin.com/in/yonatan-kinfe-7392a1274"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 &nbsp;
 </p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
