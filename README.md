@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
 </p>
 <div align="center">
-
+ 
   <!-- Optional: A larger, more welcoming emoji or banner -->
   <!-- <img src="YOUR_BANNER_URL_HERE" alt="Welcome Banner" width="800"/> -->
 
