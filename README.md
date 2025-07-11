@@ -23,7 +23,7 @@
 ## 👋 About Me
 
 I'm a versatile developer with a strong foundation in **Full-Stack Web Development** and a growing expertise in **Machine Learning Engineering**. I thrive on building efficient backend systems, creating engaging frontend interfaces, and leveraging data to build intelligent applications. I'm always eager to learn new technologies and contribute to challenging projects.
-<!-- needed some modification -->
+
 ---
 
 ## 🛠️ My Tech Stack & Tools
