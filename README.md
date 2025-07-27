@@ -1,3 +1,11 @@
+<div align="center">
+  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000) |
+|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+</div>
+
+
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
 <p align= "center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
