@@ -1,9 +1,4 @@
-<div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-ajim&layout=compact&theme=transparent&hide_border=true&bg_color=00000000) |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-</div>
 
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
