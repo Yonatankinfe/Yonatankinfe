@@ -13,8 +13,8 @@
 <div align="center">
   <p>
     Building robust backend systems and minimalist, intuitive interfaces in Addis Ababa. <br>
-    Currently scaling solutions as a Junior Software Developer at Tekhaf Trading PLC <br>
-    while pursuing my Master's in Computer Science at Admas University. 
+    Currently scaling solutions as a Software Developer at Tekhaf Trading PLC <br>
+    while pursuing my Master's in Computer Science. 
   </p>
   <p>
     <i>Passionate about AI automation, PHP frameworks, and writing beautiful code.</i>
@@ -89,7 +89,7 @@
 <h3 align="center">✦ C O N N E C T ✦</h3>
 
 <div align="center">
-  <p>Whether it's discussing new tech architectures, AI projects, or a Chelsea FC match, my inbox is open.</p>
+  <p>Whether it's discussing new tech architectures, AI projects my inbox is open.</p>
   <br>
   <a href="https://linkedin.com/in/yonatan-kinfe-7392a1274">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
