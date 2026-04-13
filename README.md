@@ -110,9 +110,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:000000&height=100&section=footer" width="100%" />
 </div>
- <!-- GitHub Trophies -->
-<div align="center" style="margin-top: 30px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=flat&column=7" alt="GitHub Trophies"  style="width: 680px; " />
-  </a>
-</div>
+
