@@ -110,6 +110,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:000000&height=100&section=footer" width="100%" />
 </div>
- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=vue" alt="Top Languages by Repo" />
-  </a>
+ 
