@@ -59,8 +59,7 @@
 <br>
 
 <h3 align="center">✦ P E R F O R M A N C E &nbsp; M E T R I C S ✦</h3>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yonatankinfe)](https://github.com/Yonatankinfe/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
