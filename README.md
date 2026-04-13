@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00599C&height=250&section=header&text=Yonatan%20Kinfe&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
   
@@ -59,19 +60,20 @@
 <br>
 
 <h3 align="center">✦ P E R F O R M A N C E &nbsp; M E T R I C S ✦</h3>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=radical&bg_color=0D1117" alt="Top Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&theme=radical" alt="Top Languages" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=radical&bg_color=0D1117" alt="Most Used Languages" width="48%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&theme=radical" alt="Most Used Languages" />
   </a>
 </div>
 
@@ -79,7 +81,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=radical&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=dracula&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -88,7 +90,7 @@
 <h3 align="center">✦ C O N N E C T ✦</h3>
 
 <div align="center">
-  <p>Whether it's discussing new tech architectures, AI projects my inbox is open.</p>
+  <p>Whether it's discussing new tech architectures or AI projects, my inbox is open.</p>
   <br>
   <a href="https://linkedin.com/in/yonatan-kinfe-7392a1274">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -108,4 +110,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:000000&height=100&section=footer" width="100%" />
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
