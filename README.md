@@ -1,132 +1,213 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00599C&height=250&section=header&text=Yonatan%20Kinfe&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
-  
-  <br>
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Developer;Machine+Learning+Enthusiast;Clean+UI%2FUX+Advocate;Architecting+AI+Automation" alt="Typing SVG" />
+
+<!-- CINEMATIC HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:00d4ff&height=300&section=header&text=YONATAN%20KINFE&fontSize=75&fontAlignY=40&fontColor=ffffff&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Architect%20%E2%80%A2%20ML%20Enthusiast&descSize=18&descAlignY=62&animation=fadeIn&stroke=00d4ff&strokeWidth=2" width="100%"/>
+
 </div>
 
 <br>
 
-<h3 align="center">✦ A B O U T &nbsp; M E ✦</h3>
-
+<!-- ANIMATED TYPEWRITER -->
 <div align="center">
-  <p>
-    Building robust backend systems and minimalist, intuitive interfaces in Addis Ababa. <br>
-    Currently scaling solutions as a Software Developer at Tekhaf Trading PLC <br>
-    while pursuing my Master's in Computer Science. 
-  </p>
-  <p>
-    <i>Passionate about bridging the gap between clean UI/UX and complex data, from engineering AI-driven automation workflows to building scalable PHP frameworks.</i>
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=700&height=45&lines=_%20Building+the+infrastructure+of+tomorrow;_%20Engineering+AI-powered+automation+systems;_%20Crafting+pixel-perfect+interfaces;_%20Addis+Ababa+%E2%86%92+The+World" alt="Typing SVG" />
 </div>
 
 <br>
 
-<h3 align="center">✦ C U R R E N T &nbsp; F O C U S ✦</h3>
+---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <b>🤖 AI & Automation</b><br>
-        Developing human-like engagement bots with manual approval workflows and exploring predictive ML models.
-      </td>
-      <td align="center" width="50%">
-        <b>💻 Full-Stack Architecture</b><br>
-        Crafting seamless enterprise solutions utilizing Bootstrap utility classes for frontend elegance and robust backend logic.
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- ABOUT SECTION -->
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<br>
+### `> whoami`
 
-<h3 align="center">✦ T E C H N I C A L &nbsp; A R S E N A L ✦</h3>
+```yaml
+name       : Yonatan Kinfe
+role       : Software Developer @ Tekhaf Trading PLC
+education  : MSc Computer Science (in progress)
+location   : Addis Ababa, Ethiopia 🇪🇹
+focus      : Full-Stack · AI Automation · ML
+status     : Available for collaboration ✅
+```
 
-<div align="center">
-  <table style="border: none;">
-    <tr style="border: none;">
-      <td align="center" width="33%" style="border: none;">
-        <b>🌐 Frontend & UI</b><br><br>
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      </td>
-      <td align="center" width="33%" style="border: none;">
-        <b>⚙️ Backend & Data</b><br><br>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/CodeIgniter-DD4814?style=flat-square&logo=codeigniter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-      </td>
-      <td align="center" width="33%" style="border: none;">
-        <b>🔧 Tools & ML</b><br><br>
-        <img src="https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logo=mathworks&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br>
-        <img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-</div>
+> *"I build systems where elegance meets performance —  
+> from zero-latency backends to intelligent AI workflows."*
+
+</td>
+<td width="45%" valign="top" align="center">
+
+### `> current_missions`
+
+```
+◈  Human-like AI engagement bots
+    └─ with manual approval workflows
+
+◈  Predictive ML models
+    └─ for real-world data pipelines
+
+◈  Scalable PHP enterprise frameworks
+    └─ built for growth
+
+◈  Clean UI/UX at every layer
+    └─ because details matter
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <br>
 
-<h3 align="center">✦ P E R F O R M A N C E &nbsp; M E T R I C S ✦</h3>
+## ⚡ `TECHNICAL ARSENAL`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&bg_color=0d1117&text_color=ffffff&icon_color=00599C&title_color=00599C&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&background=0d1117&stroke=00599C&ring=00599C&fire=00599C&currStreakNum=ffffff&currStreakLabel=00599C&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</div>
+<br>
 
+<!-- FRONTEND -->
+<details open>
+<summary><b>🌐 &nbsp; Frontend & UI Engineering</b></summary>
 <br>
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yonatankinfe&bg_color=0d1117&text_color=ffffff&title_color=00599C&icon_color=00599C" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yonatankinfe&bg_color=0d1117&text_color=ffffff&title_color=00599C&icon_color=00599C" alt="Most Used Languages" />
-  </a>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00D4FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00D4FF)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00D4FF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00D4FF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00D4FF)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00D4FF)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00D4FF)
+
+</div>
+</details>
+
+<br>
+
+<!-- BACKEND -->
+<details open>
+<summary><b>⚙️ &nbsp; Backend & Database Systems</b></summary>
+<br>
+
+<div align="center">
+
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00D4FF)
+![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=00D4FF)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000?style=for-the-badge&logo=codeigniter&logoColor=00D4FF)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00D4FF)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D4FF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00D4FF)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=00D4FF)
+
+</div>
+</details>
+
+<br>
+
+<!-- AI/ML -->
+<details open>
+<summary><b>🤖 &nbsp; AI · Machine Learning · Automation</b></summary>
+<br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D4FF)
+![MATLAB](https://img.shields.io/badge/MATLAB-000000?style=for-the-badge&logo=mathworks&logoColor=00D4FF)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=00D4FF)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=00D4FF)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-000000?style=for-the-badge&logo=openai&logoColor=00D4FF)
+
+</div>
+</details>
+
+<br>
+
+<!-- DEVOPS -->
+<details open>
+<summary><b>🔧 &nbsp; DevOps · Infrastructure · Tools</b></summary>
+<br>
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D4FF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=00D4FF)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00D4FF)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D4FF)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00D4FF)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00D4FF)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00D4FF)
+
+</div>
+</details>
+
+<br>
+
+---
+
+## 📊 `PERFORMANCE METRICS`
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yonatankinfe&show_icons=true&bg_color=000000&text_color=ffffff&icon_color=00d4ff&title_color=00d4ff&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yonatankinfe&layout=compact&bg_color=000000&text_color=ffffff&title_color=00d4ff&hide_border=true&border_radius=10&langs_count=8" />
+
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=dracula&column=7&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br>
-
-<br>
-
-<h3 align="center">✦ C O N N E C T ✦</h3>
-
-<div align="center">
-  <p>Whether it's discussing new backend architectures, clean UI practices, or brainstorming AI projects, my inbox is open.</p>
-  <br>
-  <a href="https://linkedin.com/in/yonatan-kinfe-7392a1274">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Yonatankinfe">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/yonatankinfe">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yonatankinfe&background=000000&stroke=00d4ff&ring=00d4ff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=00d4ff&sideNums=ffffff&sideLabels=00d4ff&dates=444444&hide_border=true&border_radius=10" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:000000&height=100&section=footer" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yonatankinfe&theme=onestar&column=7&no-frame=true&no-bg=true&margin-w=8" />
 </div>
+
+<br>
+
+---
+
+## 📈 `CONTRIBUTION ACTIVITY`
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yonatankinfe&bg_color=000000&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true" width="95%"/>
+</div>
+
+<br>
+
+---
+
+## 🛰 `OPEN COMMS`
+
+<br>
+
+<div align="center">
+
+<p>Whether it's a bold product idea, a backend challenge, or a wild AI experiment —<br>the channel is always open.</p>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/yonatan-kinfe-7392a1274)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00D4FF)](https://github.com/Yonatankinfe)
+&nbsp;&nbsp;
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00D4FF)](https://t.me/yonatankinfe)
+
+<br>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yonatankinfe.Yonatankinfe&left_color=000000&right_color=00d4ff&left_text=Profile%20Views)
+
+</div>
+
+<br>
+
+<!-- CINEMATIC FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:0a0a0a,100:000000&height=120&section=footer&reversal=true" width="100%"/>
