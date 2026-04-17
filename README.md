@@ -203,7 +203,6 @@ status     : Available for collaboration ✅
 
 <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Yonatankinfe.Yonatankinfe&left_color=000000&right_color=00d4ff&left_text=Profile%20Views)
 
 </div>
 
