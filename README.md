@@ -202,8 +202,7 @@ status     : Available for collaboration ✅
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00D4FF)](https://t.me/yonatankinfe)
 
 <br>
-![GitHub Stats](https://ais-dev-diyju3zs6dorh6p7fm5bhb-820763800923.europe-west2.run.app/api/card?username=Yonatankinfe&theme=dark&layout=default)
-</div>
+![GitHub Stats](https://ais-dev-diyju3zs6dorh6p7fm5bhb-820763800923.europe-west2.run.app/api/card/Yonatankinfe.svg?theme=dark&layout=default)</div>
 
 <br>
 
