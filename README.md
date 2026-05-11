@@ -185,8 +185,6 @@ status     : Available for collaboration ✅
 
 ---
 
-![GitHub Stats](https://ais-dev-diyju3zs6dorh6p7fm5bhb-820763800923.europe-west2.run.app/api/card/Yonatankinfe.svg?theme=dark&layout=default)
-
 ## 🛰 `OPEN COMMS`
 
 <br>
