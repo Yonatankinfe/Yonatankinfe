@@ -11,8 +11,7 @@
 <br>
 
 <!-- ── LIVE TELEMETRY: VIEWS + FOLLOWERS ── -->
-<a href="https://github.com/Yonatankinfe"><img src="https://komarev.com/ghpvc/?username=Yonatankinfe&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&abbreviated=true" alt="Profile views"/></a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/Yonatankinfe?tab=followers"><img src="https://img.shields.io/github/followers/Yonatankinfe?style=for-the-badge&label=FOLLOWERS&logo=github&color=000000&labelColor=000000&logoColor=00D4FF" alt="Followers"/></a>
 
 </div>
